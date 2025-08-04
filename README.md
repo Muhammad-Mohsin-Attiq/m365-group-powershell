@@ -8,7 +8,7 @@ This repo contains a PowerShell script and tutorial to safely bulk-add users to 
 - `Add-M365GroupMembers.ps1` — the main script
 - `your-list.txt` — sample input
 - `Add-M365GroupMembers-Article.md` — full tutorial
-- `cover-image.png` — for Medium or LinkedIn thumbnail
+- `cover-image.png` — for Medium thumbnail
 
 ## 🚀 mmattiq
 Made with PowerShell & caffeine ☕
